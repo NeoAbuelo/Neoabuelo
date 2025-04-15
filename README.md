@@ -1,4 +1,7 @@
-### Hi there 👋
+# Saludos
+
+# Me llamo Ricardo, soy desarrollador backend de Python 
+# Estoy especializado en aplicaciones medicas y en apicaciones API Rests en django
 
 <!--
 **NeoAbuelo/Neoabuelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
