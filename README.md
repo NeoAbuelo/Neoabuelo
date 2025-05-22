@@ -1,4 +1,4 @@
-## Me llamo Ricardo, soy desarrollador Python  👋
+## Hola, soy desarrollador Python  👋
 
 
 # 💻 Tech Stack:
@@ -7,5 +7,5 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neoabuelo&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Neoabuelo&theme=tokyonight)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoabuelo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
